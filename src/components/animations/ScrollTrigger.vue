@@ -233,8 +233,18 @@ onUnmounted(() => {
               <div class="rotate-on-scroll text-5xl font-black text-cyan-400 mb-4">∞</div>
               <div class="animate-on-scroll text-white/80 text-lg">Possibilities</div>
             </div>
-          </div> 
-         
+          </div>
+          
+          <!-- Final CTA -->
+          <div class="mt-16">
+            <div class="animate-on-scroll bg-gradient-to-r from-cyan-500/20 via-purple-500/20 to-pink-500/20 backdrop-blur-xl rounded-3xl p-12 border border-white/20">
+              <h3 class="text-3xl font-black text-white mb-6">Ready to Create Magic? ✨</h3>
+              <p class="text-xl text-white/80 mb-8">Join thousands of developers creating amazing experiences</p>
+              <button class="px-12 py-4 bg-gradient-to-r from-cyan-500 via-purple-500 to-pink-500 text-white font-bold rounded-full hover:from-cyan-400 hover:via-purple-400 hover:to-pink-400 transform hover:scale-110 transition-all duration-500 shadow-2xl text-lg">
+                🚀 Start Building
+              </button>
+            </div>
+          </div>
         </div>
       </section>
     </div>
