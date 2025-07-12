@@ -13,7 +13,7 @@ const headerRef = ref(null)
 const containerRef = ref(null)
 
 const demos = [
-  { id: 'text-reveal', name: 'Text Reveal', '✨', component: TextReveal },
+  { id: 'text-reveal', name: 'Text Reveal', icon: '✨', component: TextReveal },
   { id: 'button-hover', name: 'Button Magic', icon: '🎯', component: ButtonHover },
   { id: 'card-flip', name: 'Card Flip', icon: '🃏', component: CardFlip },
   { id: 'loading-spinner', name: 'Loading Fun', icon: '⚡', component: LoadingSpinner },
